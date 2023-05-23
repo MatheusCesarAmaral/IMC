@@ -1,5 +1,5 @@
 <p align="center">
-    <img src=".github/preview.png" alt="Preview IMC" width="100%">
+    <img src=".github/preview.png" alt="Preview IMC" width="50%">
 </p>
 
 ## 📊 Projeto
